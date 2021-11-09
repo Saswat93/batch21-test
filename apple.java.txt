@@ -3,7 +3,7 @@ public class JavaMathExample1
     public static void main(String[] args)     
     {    
         double x = 988;    
-        double y = 4;    
+        double y = 74;    
           
         // return the maximum of two numbers  
         System.out.println("Maximum number of x and y is: " +Math.max(x, y));   
