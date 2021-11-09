@@ -2,7 +2,7 @@ public class JavaMathExample1
 {    
     public static void main(String[] args)     
     {    
-        double x = 88;    
+        double x = 988;    
         double y = 4;    
           
         // return the maximum of two numbers  
