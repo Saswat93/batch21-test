@@ -1,7 +1,7 @@
-vsdcgpublic class JavaMathExample1    
+public class JavaMathExample1    
 {    
     public static void main(String[] args)     
-    {    
+    { DEMO ON GIT JIRA INTEGRATION   
         double x = 28;    
         double y = 4;    
           
